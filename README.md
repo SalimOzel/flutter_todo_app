@@ -3,7 +3,8 @@
 - If the task is done, it is marked.
 - task search feature.
 - delete desired task by swiping right.
-- saving the added tasks to the local database and automatically resetting the tasks every 24 hours
+- saving the added tasks to the local database and automatically resetting the tasks every 24 hours.
+- Language support with localization.
 
 ## Libraries
 - hive
