@@ -10,6 +10,7 @@
 - hive
 - get_it
 - easy_localization
+- flutter_datetime_picker
 
 
 ## Screenshots
